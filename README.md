@@ -1,2 +1,2 @@
-# ejemploprueba
-Pagina de prueba para poder subir un sitio a github
+# hectorcetina.github.io
+Pagina Hector Cetina
